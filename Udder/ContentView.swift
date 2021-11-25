@@ -16,6 +16,7 @@ struct ContentView: View {
                 Text("Fresh milk on demand")
                     .font(.system(size: 20))
                 Spacer()
+                Text("Im here")
                 
             }
         }
